@@ -1,0 +1,201 @@
+.divHeader1 {
+	font-size: 13px;
+	padding:5px 30px 5px 20px;
+}
+
+.divHeader2 {
+	display: line-block;
+	margin:5px 10px 5px 10px;
+}
+
+.divHeader3 {
+	display: line-block;
+	float:right;
+}
+
+.headerLogin {
+	width: 290px;
+	height: 130px;
+}
+
+.header4 {
+	text-align:center;
+}
+
+.headerBox {
+	width: 491px;
+	height: 36px;
+	margin:0 auto;
+	font-size: 16px;
+	border: 2px solid red;
+	color: red;
+	position: relative;
+}
+
+.divHeader4 {
+	font-size: 0px;
+}
+
+.headerSou {
+	width: 132px;
+	height: 36px;
+	background: red;
+	font-size: 16px;
+	color: white;
+	text-align: center;
+	margin:0 auto;
+	border: 2px solid red;
+}
+
+.divHeader5 {
+	left: 300px;
+	top:120px;
+	font-size: 16px;
+	display: line;
+	position: absolute;
+}
+
+div > a {
+	color: black;
+}
+
+body div span a {
+	color: black;
+}
+
+.body {
+	position: relative;
+}
+
+.body1 {
+	display: inline-block;
+	font-size: 18px;
+}
+
+.img1 {
+	width: 100px;
+	height: 30px;
+}
+
+.daxiaoL {
+	width: 23.3%;
+	position: absolute;
+}
+
+div ul li {
+	margin:5px 2px 8px 2px;
+}
+
+.daxiaoR {
+	width: 100%;
+	margin-left: 315px;
+	position: relative;
+}
+
+.daoHang1{
+	width: 30%;
+	height: 500px;
+	margin-top: 5px;
+	background: #CBCBCB;
+}
+
+.daoHang2 {
+	height: 450px;
+}
+
+ul a{
+	color: black;
+}
+
+a:hover{
+	color: black;
+}
+
+.body2 {
+	width: 100%;
+	height: 25px;
+	color: red;
+	margin:0 auto;
+	position: relative;
+	display: inline-block;
+}
+
+.body3 {
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 200px;
+	height: 16px;
+	margin:0 auto;
+	position: absolute;
+}
+
+.body4 {
+	width: 100%;
+	height: 400px;
+	display: line;
+	position: relative;
+}
+
+.body5 {
+	width: 33.3%;
+	height: 100%;
+	position: relative;
+	display: line;
+	float: left;
+}
+
+.body7 {
+	width: 71.5%;
+	height: 10%;
+	text-align: center;
+}
+
+.body8 {
+	width: 85%;
+	height: 400px;
+}
+
+.body6 {
+	margin: 0 auto;
+	display: inline-block;
+}
+
+footer div p a {
+	color: white;
+	font-size: 12px;
+}
+
+.footer1 {
+	margin-left:100px;
+	margin-top: 10px;
+}
+
+.footer2 {
+	color:#668FA4;
+}
+
+.footer3 {
+	margin-right: 60px;
+}
+
+footer div span {
+	font-size: 13px;
+	color:#668FA4;
+}
+
+footer div span a {
+	font-size: 13px;
+	color:#668FA4;
+}
+
+.productsCategorys {
+	display: none;
+	position: absolute;
+	height: 500px;
+	background: white;
+	width: 1000px;
+	margin-left: 23.5%; 
+	margin-top: -450px;
+}
